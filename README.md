@@ -6,4 +6,4 @@ Mano programavimo kelionė.
 
 EN
 
-My programing journey.
+My programming journey.
