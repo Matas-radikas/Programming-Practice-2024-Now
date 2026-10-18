@@ -1,2 +1,9 @@
 # Programming-Practice-2024-Now
-My programing journey
+
+LT
+
+Mano programavimo kelionė.
+
+EN
+
+My programing journey.
