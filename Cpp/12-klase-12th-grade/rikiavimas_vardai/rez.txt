@@ -1,0 +1,5 @@
+Algis               1
+Petras              2
+Rima                1
+Rimas               1
+Rita                2

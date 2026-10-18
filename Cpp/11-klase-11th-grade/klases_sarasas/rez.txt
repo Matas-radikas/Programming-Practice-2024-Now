@@ -1,0 +1,24 @@
+Klasės sąrašas
+----------------------------------
+Mokinys                  Dalykas        
+----------------------------------
+Baravykaite Marijona     Tikyba         
+Baravykas Algis          Etika          
+Eglaite Ramune           Etika          
+Gaurius Svajunas         Etika          
+Lepsius Martynas         Tikyba         
+Lepsyte Barbora          Etika          
+Liepaite Rita            Tikyba         
+Smalsuole Marceliuke     Etika          
+Taiklioji Akis           Tikyba         
+----------------------------------
+Etiką pasirinkusieji mokiniai
+----------------------------------
+Mokinys                  Dalykas        
+----------------------------------
+Baravykas Algis          Etika          
+Eglaite Ramune           Etika          
+Gaurius Svajunas         Etika          
+Lepsyte Barbora          Etika          
+Smalsuole Marceliuke     Etika          
+----------------------------------

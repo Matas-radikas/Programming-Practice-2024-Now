@@ -1,0 +1,2 @@
+Minimumas yra 21
+Maksimumas yra 100

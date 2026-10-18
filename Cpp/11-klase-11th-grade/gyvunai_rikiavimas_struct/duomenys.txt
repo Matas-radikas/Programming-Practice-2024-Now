@@ -1,0 +1,6 @@
+5
+Katinas        3    Petras Rudasis
+Pelė baltoji   14   Jurgis Rudasis
+Katinas        1    Rita Rudoji
+Vilkas pilkas  2    Petras Rudasis
+Žiurkėnas      5    Jurgis Rudasis

@@ -1,0 +1,6 @@
+Valstybiu sarasas:
+        Lietuva     2
+       Ispanija     3
+        Italija     3
+     Prancuzija     1
+         Estija     1

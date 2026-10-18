@@ -1,0 +1,27 @@
+iostream – duomenų įvedimo klaviatūra ir rodymo ekrane priemonės
+fstream – duomenų skaitymo iš failo ir rašymo į failą priemonės
+iomanip – duomenų išvedimo į failų srautus (ekraną, failą) priemonės
+cmath – matematinių funkcijų rinkinys
+
+using namespace std; – rašomas visada kai įterpiamas ANTRAŠTINIS FAILAS (pvz.,iostream)
+int main() {veiksmai} – programos pagrindinės funkcijos antraštė
+return 0; – baigti funkcijos main(){} darbą
+
+
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+fixed << setprecision (n) - n kiek po kablelio palikti
+double - realieji skaičiai
+float - racionalieji skaičiai
+ifstream n("failas") - atidaryti n duomenų.txt
+ofstream n("rezultatai") - užrašyti n rezultatus.txt
+
+
+return 0;
+}

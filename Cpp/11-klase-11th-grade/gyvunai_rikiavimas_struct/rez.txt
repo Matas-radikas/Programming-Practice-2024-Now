@@ -1,0 +1,4 @@
+Pelė baltoji     14
+Žiurkėnas        5
+Katinas            4
+Vilkas pilkas      2
